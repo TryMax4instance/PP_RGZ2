@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PP_RGZ2", "PP_RGZ2\PP_RGZ2.vcxproj", "{DDF44019-4C6C-4E38-B491-A811AC78F630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Debug|x64.ActiveCfg = Debug|x64
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Debug|x64.Build.0 = Debug|x64
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Debug|x86.Build.0 = Debug|Win32
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Release|x64.ActiveCfg = Release|x64
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Release|x64.Build.0 = Release|x64
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Release|x86.ActiveCfg = Release|Win32
+		{DDF44019-4C6C-4E38-B491-A811AC78F630}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92CBE358-FDD2-462F-940A-D746C39BC579}
+	EndGlobalSection
+EndGlobal
